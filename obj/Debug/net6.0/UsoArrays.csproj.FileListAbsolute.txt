@@ -1,0 +1,15 @@
+C:\Users\vazqu\source\repos\UsoArrays\bin\Debug\net6.0\UsoArrays.exe
+C:\Users\vazqu\source\repos\UsoArrays\bin\Debug\net6.0\UsoArrays.deps.json
+C:\Users\vazqu\source\repos\UsoArrays\bin\Debug\net6.0\UsoArrays.runtimeconfig.json
+C:\Users\vazqu\source\repos\UsoArrays\bin\Debug\net6.0\UsoArrays.dll
+C:\Users\vazqu\source\repos\UsoArrays\bin\Debug\net6.0\UsoArrays.pdb
+C:\Users\vazqu\source\repos\UsoArrays\obj\Debug\net6.0\UsoArrays.csproj.AssemblyReference.cache
+C:\Users\vazqu\source\repos\UsoArrays\obj\Debug\net6.0\UsoArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vazqu\source\repos\UsoArrays\obj\Debug\net6.0\UsoArrays.AssemblyInfoInputs.cache
+C:\Users\vazqu\source\repos\UsoArrays\obj\Debug\net6.0\UsoArrays.AssemblyInfo.cs
+C:\Users\vazqu\source\repos\UsoArrays\obj\Debug\net6.0\UsoArrays.csproj.CoreCompileInputs.cache
+C:\Users\vazqu\source\repos\UsoArrays\obj\Debug\net6.0\UsoArrays.dll
+C:\Users\vazqu\source\repos\UsoArrays\obj\Debug\net6.0\refint\UsoArrays.dll
+C:\Users\vazqu\source\repos\UsoArrays\obj\Debug\net6.0\UsoArrays.pdb
+C:\Users\vazqu\source\repos\UsoArrays\obj\Debug\net6.0\UsoArrays.genruntimeconfig.cache
+C:\Users\vazqu\source\repos\UsoArrays\obj\Debug\net6.0\ref\UsoArrays.dll
